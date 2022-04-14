@@ -1,0 +1,77 @@
+
+#title {
+    background: rgb(218, 255, 220) ; /*muda a cor do fundo da box*/
+    padding: 10px 5px;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+    color: darkgreen; 
+    margin: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana;
+    max-width: 900px;
+    /* -----ESTE CODIGO É PARA CENTRALIZAR NA TELA------
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);*/
+
+}
+
+.subtitle, .post_title {
+    color: lightseagreen;
+    font-family: Verdana;
+    max-width: 900px;
+
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Verdana;
+    text-align: left;
+    
+}
+
+.post {
+    background: white ;
+    padding: 10px 5px;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 15px;
+    text-align: center;
+    max-width: 900px;
+
+}
+
+.subtitle {
+    margin: 10px;
+    margin-left: 15px;
+}
+
+.photo {
+    display: block;
+    border: 2px solid darkgreen;
+    border-radius: 50%;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.conteudo {
+    font-family: Verdana;
+    font-size: large
+}
+
+.contatos {
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+
